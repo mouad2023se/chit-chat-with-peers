@@ -1,26 +1,40 @@
-## Create your dynamic chatting application by using Reactjs,Vitejs, google firebase & zustand.
+Chit-Chat-with-peers   Real-Time Chat Application
 
-<img width="1283" alt="chat_app_using_reactjs_free_code" src="https://github.com/noorjsdivs/chat-app-yt/assets/104062645/0f81e187-17b9-4cf2-86e6-ff0f14bf82ad">
+Overview
+A modern, responsive real-time chat web application built with React.js, Vite, Firebase, and Zustand.
+🚀 Features
 
-## Key features:
-_responsive user interfaces,
+Real-time messaging
+Responsive user interface
+State management with Zustand
+Firebase authentication and database integration
 
-_real time chatting,
+🛠 Tech Stack
 
-_interactive store managements for users and chattings data.
+React.js
+Vite
+Firebase
+Zustand
+React
+
+📦 Prerequisites
+
+Node.js
+npm
+
+🔧 Installation
 
 
-## Try this setup to run in your local machine:
+# Clone this repository
+git@github.com:mouad2023se/chit-chat-with-peers.git
 
-### Clone this repository in your local machine,
-### move inside your project by cd into your project like cd chat-app-yt or open it from your directory, 
-### in project terminal type npm install if you are using npm or yarn in you are using yarn or pnpm install if you are using pnpm as your node package manager,
-### npm run dev or yarn dev or pnpm dev to start it in localhost://3000.
+# Go into the repository
+$ cd chit-chat-with-peers
 
+# Install dependencies
+$ npm install
 
-## Get Firebase credential to access Registration, Login and Messaging options
-#### update firebase.js file with your firebase app sdk value
-#### update .env file
-Now you are good to go_
+# Start development server
+$ npm start
 
 __Happy coding!!!

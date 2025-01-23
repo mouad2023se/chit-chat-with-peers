@@ -5,11 +5,11 @@ import { getStorage } from "firebase/storage";
 
 const firebaseConfig = {
   apiKey: import.meta.env.VITE_API_KEY,
-  authDomain: "",
-  projectId: "",
-  storageBucket: "",
-  messagingSenderId: "",
-  appId: "",
+  authDomain: "chit-chat-b535a.firebaseapp.com",
+  projectId: "chit-chat-b535a",
+  storageBucket: "chit-chat-b535a.firebasestorage.app",
+  messagingSenderId: "920856658433",
+  appId: "1:920856658433:web:fd9d79106bd2df71d2b600"
 };
 
 export const app = initializeApp(firebaseConfig);
