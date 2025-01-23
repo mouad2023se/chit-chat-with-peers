@@ -1,4 +1,4 @@
-Chit-Chat-with-peers   Real-Time Chat Application
+###Chit-Chat-with-peers   Real-Time Chat Application
 
 Overview
 A modern, responsive real-time chat web application built with React.js, Vite, Firebase, and Zustand.
